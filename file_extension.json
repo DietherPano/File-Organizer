@@ -1,0 +1,132 @@
+{
+    "file_types": {
+        "Images": [
+            ".jpg",
+            ".jpeg",
+            ".png",
+            ".gif",
+            ".bmp",
+            ".tiff",
+            ".webp",
+            ".svg",
+            ".ai",
+            ".eps"
+        ],
+        "Documents": [
+            ".txt",
+            ".doc",
+            ".docx",
+            ".rtf",
+            ".odt",
+            ".pdf",
+            ".xls",
+            ".xlsx",
+            ".csv",
+            ".ods",
+            ".ppt",
+            ".pptx"
+        ],
+        "Videos": [
+            ".mp4",
+            ".avi",
+            ".mov",
+            ".mkv",
+            ".wmv",
+            ".flv",
+            ".webm",
+            ".m3u8",
+            ".ts"
+        ],
+        "Music": [
+            ".mp3",
+            ".aac",
+            ".ogg",
+            ".flac",
+            ".wav",
+            ".aiff"
+        ],
+        "Archives": [
+            ".zip",
+            ".tar",
+            ".gz",
+            ".bz2",
+            ".iso",
+            ".img"
+        ],
+        "Configurations": [
+            ".ini",
+            ".cfg",
+            ".conf",
+            ".properties",
+            ".yami"
+        ],
+        "Miscellaneous": [
+            ".ttf",
+            ".otf",
+            ".woff",
+            ".woff2",
+            ".dll",
+            ".sys",
+            ".bin",
+            ".unity",
+            ".gam",
+            ".sav",
+            ".bak",
+            ".backup"
+        ],
+        "Specialized": [
+            ".csv",
+            ".hdf5",
+            ".fits",
+            ".shp",
+            ".geojson",
+            ".kml",
+            ".dwg",
+            ".dxf",
+            ".obj",
+            ".stl",
+            ".fbx",
+            ".epub",
+            ".mobi"
+        ]
+    },
+    "code_file_types": {
+        "Python": ".py",
+        "C": ".c",
+        "Cpp": ".cpp",
+        "Java": ".java",
+        "JavaScript": ".js",
+        "Css": ".css",
+        "Xml": ".xml",
+        "Md": ".md",
+        "Exe": ".exe",
+        "App": ".app",
+        "Apk": ".apk",
+        "Sh": ".sh"
+    },
+    "database_file_types": {
+        "SQLITE": ".sqlite",
+        "SQL": ".sql",
+        "DB": ".db",
+        "JSON": ".json",
+        "YAML": ".yaml"
+    },
+    "Scripts": [
+        ".bat",
+        ".ps1",
+        ".bash",
+        ".bat",
+        ".ps1",
+        ".bash"
+    ],
+    "Data": [
+        ".csv",
+        ".json",
+        ".xml",
+        ".yaml",
+        ".csv",
+        ".json",
+        ".xml",
+        ".yaml"
+    ]
+}
