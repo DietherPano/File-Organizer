@@ -1,5 +1,5 @@
 # File-Organizer
-- File Organizer Will Help you to organize your File base On their Extension
+- A Simple File Organizer that will help you to organize your File base On their Extension
 
 # Contributors 
 - https://github.com/DietherPano
